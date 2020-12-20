@@ -3,17 +3,78 @@ body {
     text-align: center;
 	background-color: #eae8e4;
 }
-div.headername {
-    text-align: left;
-    font-family: 'Cormorant Garamond', serif;
-    font-size: 14;
-    left: 20px;
-    top: 10px;
+div.topbar {
     color: #504542;
+    text-align: left;
+    text-decoration: none !important;
+    font-family: 'Cormorant Garamond', serif;
+    font-weight: 600;
+    margin-left: 7%;
+    margin-top: 30px;
+    width: auto;
 }
 div.aboutme {
     text-align: center;
     font-family: 'Courier New', Courier, monospace;
     font-size: 14;
     color: black;
+}
+a.headername {
+    color: #504542;
+    text-align: left;
+    text-decoration: none !important;
+    font-family: 'Cormorant Garamond', serif;
+    font-weight: 600;
+    font-size: 30px;
+    margin-right: 55%;
+    /* margin-left: 50px; */
+
+}
+a.aboutmeTab {
+    color: #504542;
+    text-decoration: none !important;
+    font-size: 20px;
+    font-family: 'Abel', sans-serif;
+    text-align: right;
+    text-decoration: none !important;
+    font-weight: 400;
+    margin-right: 5%;
+}
+a.aboutmeTab:hover {
+    color: #504542;
+    text-decoration: underline !important;
+    text-decoration-color: #928B89 !important;
+    text-decoration-thickness: 1px !important;
+}
+a.resumeTab {
+    color: #504542;
+    text-decoration: none !important;
+    font-size: 20px;
+    font-family: 'Abel', sans-serif;
+    text-align: right;
+    text-decoration: none !important;
+    font-weight: 400;
+    margin-right: 5%;
+}
+a.resumeTab:hover {
+    color: #504542;
+    text-decoration: underline !important;
+    text-decoration-color: #928B89 !important;
+    text-decoration-thickness: 1px !important;
+}
+a.experienceTab {
+    color: #504542;
+    text-decoration: none !important;
+    font-size: 20px;
+    font-family: 'Abel', sans-serif;
+    text-align: right;
+    text-decoration: none !important;
+    font-weight: 400;
+    margin-right: 5%;
+}
+a.experienceTab:hover {
+    color: #504542;
+    text-decoration: underline !important;
+    text-decoration-color: #928B89 !important;
+    text-decoration-thickness: 1px !important;
 }
