@@ -5,7 +5,10 @@ body {
 }
 div.headername {
     text-align: left;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 14;
+    left: 20px;
+    top: 10px;
     color: #504542;
 }
 div.aboutme {
