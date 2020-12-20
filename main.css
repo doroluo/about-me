@@ -3,3 +3,14 @@ body {
     text-align: center;
 	background-color: #eae8e4;
 }
+div.headername {
+    text-align: left;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #504542;
+}
+div.aboutme {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 14;
+    color: black;
+}
