@@ -5,11 +5,10 @@ body {
 }
 div.topbar {
     color: #504542;
-    text-align: left;
+    text-align: center;
     text-decoration: none !important;
     font-family: 'Cormorant Garamond', serif;
     font-weight: 600;
-    margin-left: 7%;
     margin-top: 30px;
     width: auto;
 }
@@ -19,16 +18,16 @@ div.aboutme {
     font-size: 14;
     color: black;
 }
+div.intro {
+    margin-top: 50px;
+}
 a.headername {
     color: #504542;
-    text-align: left;
+    text-align: center;
     text-decoration: none !important;
     font-family: 'Cormorant Garamond', serif;
     font-weight: 600;
-    font-size: 30px;
-    margin-right: 55%;
-    /* margin-left: 50px; */
-
+    font-size: 45px;
 }
 a.aboutmeTab {
     color: #504542;
@@ -38,7 +37,8 @@ a.aboutmeTab {
     text-align: right;
     text-decoration: none !important;
     font-weight: 400;
-    margin-right: 5%;
+    margin-right: 2.5%;
+    margin-left: 2.5%;
 }
 a.aboutmeTab:hover {
     color: #504542;
@@ -54,7 +54,8 @@ a.resumeTab {
     text-align: right;
     text-decoration: none !important;
     font-weight: 400;
-    margin-right: 5%;
+    margin-right: 2.5%;
+    margin-left: 2.5%;
 }
 a.resumeTab:hover {
     color: #504542;
@@ -70,7 +71,8 @@ a.experienceTab {
     text-align: right;
     text-decoration: none !important;
     font-weight: 400;
-    margin-right: 5%;
+    margin-right: 2.5%;
+    margin-left: 2.5%;
 }
 a.experienceTab:hover {
     color: #504542;
